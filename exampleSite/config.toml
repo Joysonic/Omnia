@@ -9,7 +9,11 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
+
 disableLanguages = []
+
+# default language
+defaultContentLanguage = 'rs'
 
 ############################# Plugins ##########################
 # css plugins
@@ -40,14 +44,55 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
+################### Serbian Navigation ########################
+[[Languages.rs.menu.main]]
+name = "O nama"
+url = "#feature"
+weight = 1
+
+[[Languages.rs.menu.main]]
+name = "Usluge"
+url = "#services"
+weight = 2
+
+# [[Languages.rs.menu.main]]
+# name = "portefeuille"
+# url = "#portfolio"
+# weight = 3
+
+# [[Languages.rs.menu.main]]
+# name = "équipe"
+# url = "#team"
+# weight = 4
+
+# [[Languages.rs.menu.main]]
+# name = "tarification"
+# url = "#pricing"
+# weight = 5
+
+# [[Languages.fr.menu.main]]
+# name = "blog"
+# url = "#blog"
+# weight = 6
+
+[[Languages.rs.menu.main]]
+name = "Kontakt"
+url = "#contact"
+weight = 7
+
+# [[Languages.fr.menu.main]]
+# name = "themefisher"
+# url = "https://themefisher.com/"
+# weight = 8
+
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "#feature"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 url = "#services"
 weight = 2
 
@@ -72,7 +117,7 @@ weight = 2
 # weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 
@@ -100,41 +145,43 @@ weight = 7
 # weight = 8
 
 
+
+
 ################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
+# [[Languages.fr.menu.main]]
+# name = "sur"
+# url = "#about"
+# weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
+# [[Languages.fr.menu.main]]
+# name = "un service"
+# url = "#services"
+# weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
+# [[Languages.fr.menu.main]]
+# name = "portefeuille"
+# url = "#portfolio"
+# weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
+# [[Languages.fr.menu.main]]
+# name = "équipe"
+# url = "#team"
+# weight = 4
 
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
+# [[Languages.fr.menu.main]]
+# name = "tarification"
+# url = "#pricing"
+# weight = 5
 
 # [[Languages.fr.menu.main]]
 # name = "blog"
 # url = "#blog"
 # weight = 6
 
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
+# [[Languages.fr.menu.main]]
+# name = "contact"
+# url = "#contact"
+# weight = 7
 
 # [[Languages.fr.menu.main]]
 # name = "themefisher"
@@ -195,21 +242,31 @@ link = "#"
 # icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 # link = "#"
 
+################################ Serbian Language ########################
+[Languages.rs]
+languageName = "Rs"
+languageCode = "rs-rs"
+contentDir = "content/serbian"
+weight = 1
+home = "Početak"
+copyright = "Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "Copyright &copy; 2023 Omnia Communications.  Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
+
+
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 3
+# home = "Accueil"
+# copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
