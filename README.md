@@ -1,0 +1,2 @@
+# Omnia
+ status Hugo site
