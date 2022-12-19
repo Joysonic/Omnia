@@ -3,16 +3,16 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title :  (RS) We’re A Court Authorized Translation Agency.
-  content : "More than 20 years of experience with translations of various types of documents and are truly committed to producing optimal results within the deadlines."
+  title :  Mi Smo Sudski Ovlašćena Prevodilačka Agencija.
+  content : "Više od 20 godina iskustva sa prevodima različitih vrsta dokumenata i istinski smo posvećeni stvaranju optimalnih rezultata u rokovima."
   feature_item : 
       # feature item loop
-    - title : Optimal Quality
+    - title : Optimalni Kvalitet
       icon : ti-wand # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : Cost Effective
+    - title : Isplativo
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
@@ -22,6 +22,6 @@ feature:
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Personalized Attention
+    - title : Personalizovana pažnja
       icon : ti-comments # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
