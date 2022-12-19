@@ -62,8 +62,8 @@
 			<div class="contact-details">
 				{{ range .contact_list }}
 				<div class="con-info clearfix">
-					<!-- <i class="{{ .icon }}"></i> -->
-					<span>{{ .info | markdownify }}</span>
+					<i class="{{ .icon }}"></i>
+					<span>{{ .info }}</span>
 				</div>
 				{{ end }}
 			</div>

@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Overeni Prevodi
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content :  ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
     - name : Sudski Tumac

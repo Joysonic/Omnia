@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
 title = "Omnia Communications"
-theme = "meghna-hugo"
+theme = "Omnia"
 # post pagination
 paginate = "6"
 # post excerpt
