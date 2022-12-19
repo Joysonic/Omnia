@@ -249,7 +249,7 @@ languageCode = "rs-rs"
 contentDir = "content/serbian"
 weight = 1
 home = "Početak"
-copyright = "Copyright &copy; 2023 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2023 Hvala [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 ################################ English Language ########################
 [Languages.en]
