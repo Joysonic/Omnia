@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : (RS)Our Services
+  title : Our Services
   service_item :
     # service item loop
     - name : Overeni Prevodi
