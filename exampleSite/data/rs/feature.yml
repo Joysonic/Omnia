@@ -3,13 +3,13 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title :  Mi Smo Sudski Ovlašćena Prevodilačka Agencija.
-  content : "Više od 20 godina iskustva sa prevodima različitih vrsta dokumenata i istinski smo posvećeni stvaranju optimalnih rezultata u rokovima."
+  title :  3 Decenije Iskustva - Sudski Prevodi I Overe Istog Dana.
+  content : "Posvećeni smo kreiranju optimalnih rezultata u zadatim rokovima."
   feature_item : 
       # feature item loop
-    - title : Optimalni Kvalitet
+    - title : Prevod Istog Dana
       icon : ti-wand # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content :  Ako je dokument dostavljen blagovremeno i njegova dužina to omogućava, prevod će biti urađen sa (u zavisnosti od potrebe) ili bez overe istog dana.
 
       # feature item loop
     - title : Isplativo
@@ -17,9 +17,9 @@ feature:
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Time Sensitive 
+    - title : Optimalni Kvalitet 
       icon : ti-timer # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content :  Dugogodišnje iskustvo u radu sa dokumentima od izuzetne važnosti, rad u okviru zadatih rokova uz poštovanje svih zahteva klijenata, kvalitet rada i poštovanje poverljivosti informacija.
       
       # feature item loop
     - title : Personalizovana pažnja

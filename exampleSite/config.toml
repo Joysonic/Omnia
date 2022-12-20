@@ -87,7 +87,7 @@ weight = 7
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "About"
+name = "About us"
 url = "#feature"
 weight = 1
 
@@ -249,7 +249,7 @@ languageCode = "rs-rs"
 contentDir = "content/serbian"
 weight = 1
 home = "Početak"
-copyright = "Copyright &copy; 2023 Hvala [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
+copyright = "OMNIA Communications &copy; 2023"
 
 ################################ English Language ########################
 [Languages.en]
@@ -258,7 +258,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2023 Omnia Communications.  Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "OMNIA Communications &copy; 2023"
 
 
 
