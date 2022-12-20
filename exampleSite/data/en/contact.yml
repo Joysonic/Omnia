@@ -1,20 +1,20 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+  title : Contact
   subtitle : Contact Details
-  content : "We make no distinction between “big” and “small” clients or projects. There is no higher or lower price. We treat everyone the same as we deem each client equally important."
+  content : "Above all, we love our work and are constantly upgrading our knowledge applying new skills and standards in the sphere of technology, software and communications. This is why I recommend you to test our services and testify to the above!"
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Šamačka 1, 11000 Beograd. Serbia"
+      info : "Šamačka 1, 11000 Belgrade. Serbia"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone:  (011) 347 55 38"
+      info : "Phone:  (011) 347 55 38 "
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: (011) 347 57 87"
+      info : "Mobile: (063) 7 222 676     [+381637222676] "
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: office@sudski-tumac-engleski.com"

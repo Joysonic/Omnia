@@ -4,19 +4,20 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Certified Translations
+    - name : Translations
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Court translators (court interpreters) of the OMNIA Communications agency offer all types of translations of contracts and legal documents, extracts from registers, certificates of citizenship, certificates of criminal record and other certificates, driver's licenses, declarations and consents, diplomas, school certificates, company registrations, decisions and judgments, authorizations and powers of attorney, with and without certification by a court translator, to and from English language.
 
-    # service item loop
-    - name : Court Interpreter
-      icon : ti-user # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # # service item loop
+    # - name : Court Interpreter
+    #   icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Non Certified Translations
+    - name : Delivery
       icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Translations are delivered in person, by electronic mail or express delivery to the client’s address.
       
     # service item loop
     - name : Proofreading
@@ -28,12 +29,12 @@ service:
       icon : ti-book # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
-    # service item loop
-    - name : Urgent Requests
-      icon : ti-time # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Urgent Requests
+    #   icon : ti-time # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
-    # service item loop
-    - name : Hand Delivery
-      icon : ti-car # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Hand Delivery
+    #   icon : ti-car # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

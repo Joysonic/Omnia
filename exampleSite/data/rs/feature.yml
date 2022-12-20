@@ -12,9 +12,9 @@ feature:
       content :  Ako je dokument dostavljen blagovremeno i njegova dužina to omogućava, prevod će biti urađen sa (u zavisnosti od potrebe) ili bez overe istog dana.
 
       # feature item loop
-    - title : Isplativo
+    - title :  Konkurentne Cene
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Ne postoji viša ili niža cena. Za nas su svi isti i prema svima se postavljamo jednako.
       
       # feature item loop
     - title : Optimalni Kvalitet 
@@ -24,4 +24,4 @@ feature:
       # feature item loop
     - title : Personalizovana pažnja
       icon : ti-comments # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Ne pravimo nikakvu razliku između "velikog" i "malog" klijenta ili posla. Svaki klijent je podjednako važan.

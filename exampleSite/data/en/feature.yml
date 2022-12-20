@@ -14,7 +14,7 @@ feature:
       # feature item loop
     - title : Cost Effective
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : There is no higher or lower price. For us, everyone is the same and we treat everyone equally.
       
       # feature item loop
     - title :  Optimal Quality 
@@ -24,4 +24,4 @@ feature:
       # feature item loop
     - title : Personalized Attention
       icon : ti-comments # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We make no distinction between “big” and “small” clients or projects. We deem each client equally important.
