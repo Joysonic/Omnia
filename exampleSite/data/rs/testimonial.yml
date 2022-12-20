@@ -5,22 +5,24 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : (RS)Jonathon Andrew
+    - name : Dejan Ćertić
+      company: Business Law Serbia 
+      position: Izvršni direktor
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Više od 20 godina uspešno sarađujemo kao Advokatska Kancelarija sa agencijom Omnia Communications. Prevodi sa engleskog/srpskog kao i sa desetina drugih jezika su uvek bili profesionalni, urađeni u maksimalno brzom roku i prevedeni bilo da je reč o prevodima sa ili bez sudske overe razne stručne terminologije specifične za pravnu oblast. Dugogodišnje iskustvo agencije Omnia je zaista za svaku dalju preporuku i referencu.
       
-    # testimonial item loop
-    - name : (RS)Mark Dinn
+    - name : Luis Antonio
+      company: Joysonic D.O.O. 
+      position: CEO
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : (RS)Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Dec 26, 2021
+      content :  TODO add
+    # # testimonial item loop
+    # - name : (RS)Lemos Kail
+    #   image : images/client/client-1.jpg
+    #   image_webp : images/client/client-1.webp
+    #   date : Dec 26, 2018
+    #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!

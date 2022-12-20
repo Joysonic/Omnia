@@ -5,22 +5,32 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : Dejan Ćertić
+      company: Business Law Serbia 
+      position: Managing Director
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : For more than 20 years, we have successfully cooperated as a Law Office with the agency OMNIA Communications. Translations from English/Serbian, as well as from dozens of other languages, were always professional, done as quickly as possible and translated with or without court certification, and involved various professional terminology specific to the legal field. The long-term professional experience of OMNIA Communications is truly worthy of further recommendation and reference.
       
-    # testimonial item loop
-    - name : Mark Dinn
+    - name : Luis Antonio
+      company: Joysonic D.O.O. 
+      position: CEO
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Dec 20, 2022
+      content :  We have , for 9 years now, depended on the translation services provided by OMNIA Communications for all our needs as non serbian speakers. Mr. Lukic's Agency is Fast, Efficient, Reliable, Professional, Cooperative. To us, the added value is insightfulness, OMNIA Communications produces translations with impeccable attention to detail, relevant to the field in question and down to specific subtleties with a very high level of rigor.  Absolutely recommended.
+
+    # # testimonial item loop
+    # - name : Mark Dinn
+    #   image : images/client/client-2.jpg
+    #   image_webp : images/client/client-2.webp
+    #   date : Dec 26, 2018
+    #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
       
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    # # testimonial item loop
+    # - name : Lemos Kail
+    #   image : images/client/client-1.jpg
+    #   image_webp : images/client/client-1.webp
+    #   date : Dec 26, 2018
+    #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!

@@ -10,11 +10,11 @@ contact:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Šamačka 1, 11000 Beograd. Srbija."
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Telefon:  (011) 347 55 38"
+    - icon : ti-home # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon:  [(011) 347 55 38](tel:+381113475538)"
       
-    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-    #   info : "Fax: (011) 347 57 87"
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Mobile: [(063) 722 26 76](tel:+381637222676)"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: office@sudski-tumac-engleski.com"
