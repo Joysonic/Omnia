@@ -14,10 +14,10 @@ contact:
       info : "Phone:  (011) 347 55 38 "
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Mobile: (063) 7 222 676     [+381637222676] "
+      info : "Mobile: [+381637222676](tel:+381637222676)"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: office@sudski-tumac-engleski.com"
+      info : "Email: [office@sudski-tumac-engleski.com](mailto:office@sudski-tumac-engleski.com)"
 
 
   # Contact form
