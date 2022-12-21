@@ -19,7 +19,17 @@ testimonial:
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
       date : Dec 26, 2021
-      content :  TODO add
+      content :  Već 9 godina se oslanjamo od prevodilačke usluge koje pruža OMNIA Communications za sve naše potrebe kao klijanata koji dolaze van srpskog govornog područja. Agencija gospodina Lukića je brza, efikasna, pouzdana, profesionalna i kooperativna. Za nas, dodatna vrednost je pronicljivost, jer OMNIA Communications proizvodi prevode sa besprekornom pažnjom vezanom za detalje, relevantne za predmetnu oblast i sve do specifičnih suptilnosti uz veoma visok nivo rigorozne kontrole. Apsolutno preporučeno.
+
+    - name : Ivana Mirkov
+      company: Media House doo Beograd
+      position: Finansijski direktor
+      image : images/client/client-2.jpg
+      image_webp : images/client/client-2.webp
+      date : Dec 21, 2022
+      content :  Sa Agencijom OMNIA Communication sarađujemo dugi niz godina a ono što ih posebno izdvaja je dobra komunikacija koju imamo od početka. Njihova briga o nama kao korisniku, razumevanje i lako prilagođavanje našim specifičnim zahtevima razlozi su naše dugogodišnje saradnje, kao i povod da ih sa velikom zadovoljstvom uvek preporučimo našim partnerima i saradnicima.
+
+
     # # testimonial item loop
     # - name : (RS)Lemos Kail
     #   image : images/client/client-1.jpg

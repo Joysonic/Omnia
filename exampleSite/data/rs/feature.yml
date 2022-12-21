@@ -6,22 +6,26 @@ feature:
   title :  3 Decenije Iskustva - Sudski Prevodi I Overe Istog Dana.
   content : "Posvećeni smo kreiranju optimalnih rezultata u zadatim rokovima."
   feature_item : 
+
+      # feature item loop
+    - title : Optimalni Kvalitet 
+      icon : ti-timer # themify icon pack : https://themify.me/themify-icons
+      content :  Dugogodišnje iskustvo u radu sa dokumentima od izuzetne važnosti, rad u okviru zadatih rokova uz poštovanje svih zahteva klijenata, kvalitet rada i poštovanje poverljivosti informacija.
+     
+
       # feature item loop
     - title : Prevod Istog Dana
       icon : ti-wand # themify icon pack : https://themify.me/themify-icons
       content :  Ako je dokument dostavljen blagovremeno i njegova dužina to omogućava, prevod će biti urađen sa (u zavisnosti od potrebe) ili bez overe istog dana.
+
+
+      # feature item loop
+    - title : Personalizovana pažnja
+      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      content : Ne pravimo nikakvu razliku između "velikog" i "malog" klijenta ili posla. Svaki klijent je podjednako važan.
 
       # feature item loop
     - title :  Konkurentne Cene
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : Ne postoji viša ili niža cena. Za nas su svi isti i prema svima se postavljamo jednako.
       
-      # feature item loop
-    - title : Optimalni Kvalitet 
-      icon : ti-timer # themify icon pack : https://themify.me/themify-icons
-      content :  Dugogodišnje iskustvo u radu sa dokumentima od izuzetne važnosti, rad u okviru zadatih rokova uz poštovanje svih zahteva klijenata, kvalitet rada i poštovanje poverljivosti informacija.
-      
-      # feature item loop
-    - title : Personalizovana pažnja
-      icon : ti-comments # themify icon pack : https://themify.me/themify-icons
-      content : Ne pravimo nikakvu razliku između "velikog" i "malog" klijenta ili posla. Svaki klijent je podjednako važan.

@@ -19,7 +19,16 @@ testimonial:
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
       date : Dec 20, 2022
-      content :  We have , for 9 years now, depended on the translation services provided by OMNIA Communications for all our needs as non serbian speakers. Mr. Lukic's Agency is Fast, Efficient, Reliable, Professional, Cooperative. To us, the added value is insightfulness, OMNIA Communications produces translations with impeccable attention to detail, relevant to the field in question and down to specific subtleties with a very high level of rigor.  Absolutely recommended.
+      content :  We have, for 9 years now, depended on the translation services provided by OMNIA Communications for all our needs as non-Serbian speakers. Mr. Lukic's Agency is fast, efficient, reliable, professional and cooperative. To us, the added value is insightfulness, OMNIA Communications produces translations with impeccable attention to detail, relevant to the field in question and down to specific subtleties with a very high level of rigor. Absolutely recommended.
+
+    - name : Ivana Mirkov
+      company: Media House doo Beograd
+      position: CFO
+      image : images/client/client-2.jpg
+      image_webp : images/client/client-2.webp
+      date : Dec 21, 2022
+      content :  We have been working with the OMNIA Communication Agency for many years, and what sets them apart is the good communication we have had from the beginning. Their concern for us as a client, understanding and easy adaptation to our specific requirements are the reasons for our long-term cooperation, as well as the reason to always recommend them to our partners and associates with great pleasure.
+
 
     # # testimonial item loop
     # - name : Mark Dinn

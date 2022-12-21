@@ -220,15 +220,15 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/OmniaCommunications"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/omnia135"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/user/OmniaCommunications"
 
 # [[params.social]]
 # icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
@@ -250,6 +250,7 @@ contentDir = "content/serbian"
 weight = 1
 home = "Početak"
 copyright = "OMNIA Communications &copy; 2023"
+credit = "Developed by [Joysonic](https://www.joysonic.dev). Thanks to:  [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 ################################ English Language ########################
 [Languages.en]
@@ -259,6 +260,7 @@ contentDir = "content/english"
 weight = 2
 home = "Home"
 copyright = "OMNIA Communications &copy; 2023"
+credit = "Developed by [Joysonic](https://www.joysonic.dev). Thanks to:  [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 
 
