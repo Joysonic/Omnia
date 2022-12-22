@@ -144,3 +144,58 @@ jQuery(function ($) {
 	});
 
 });
+
+
+
+// Get all sections that have an ID defined
+const sections = document.querySelectorAll("section[id]");
+console.log("SEEECTION!!" + sections[0].id);
+
+
+const links = document.querySelectorAll('[id="select-language"]');
+console.log(links);
+
+targetLang = document.querySelector('[selected]');
+console.log(targetLang);
+
+// Add an event listener listening for scroll
+window.addEventListener("scroll", navHighlighter);
+
+function navHighlighter() {
+  
+  // Get current scroll position
+  let scrollY = window.pageYOffset;
+  
+  // Now we loop through sections to get height, top and ID values for each
+  sections.forEach(current => {
+    const sectionHeight = current.offsetHeight;
+    const sectionTop = current.offsetTop - 50;
+    sectionId = current.getAttribute("id");
+    
+    /*
+    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
+    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
+    */
+    if (
+      scrollY > sectionTop &&
+      scrollY <= sectionTop + sectionHeight
+    ){
+      console.log(current.id);
+		
+	  for(i=0 ; i< links[0].length ; i++)
+	  {
+		//if(link != targetLang)
+			link = links[0][i];
+			if( link != targetLang)
+			{				
+				url = link.value.substring(0, link.value.lastIndexOf("/")+1) + "#" + current.id;
+				link.value = url;
+			};
+		}
+
+	  // document.querySelector(".nav-link a[href*=" + sectionId + "]").classList.add("active");
+    } else {
+      //document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
+    }
+  });
+}

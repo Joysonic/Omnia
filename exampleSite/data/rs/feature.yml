@@ -5,6 +5,7 @@ feature:
   image_webp : images/about/about-business-man.webp
   title :  3 Decenije Iskustva - Sudski Prevodi I Overe Istog Dana.
   content : "Posvećeni smo kreiranju optimalnih rezultata u zadatim rokovima."
+  head : O nama
   feature_item : 
 
       # feature item loop

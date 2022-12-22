@@ -16,7 +16,9 @@
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
 					<a href="{{ site.Home.Permalink }}">
-						<img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
+						{{ if site.Params.logo }}
+							<img class="lozad" data-src="{{ site.Params.logo | absURL }}" alt="{{ .Site.Title }}" height="42">
+						{{ end }}
 					</a>
 					<br>
 					<p>{{ site.Params.copyright | markdownify }}</p>

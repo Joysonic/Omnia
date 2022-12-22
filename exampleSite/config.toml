@@ -244,7 +244,7 @@ link = "https://www.youtube.com/user/OmniaCommunications"
 
 ################################ Serbian Language ########################
 [Languages.rs]
-languageName = "Rs"
+languageName = "RS"
 languageCode = "rs-rs"
 contentDir = "content/serbian"
 weight = 1
@@ -254,7 +254,7 @@ credit = "Developed by [Joysonic](https://www.joysonic.dev). Thanks to:  [Themef
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "EN"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2

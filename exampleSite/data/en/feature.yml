@@ -5,6 +5,7 @@ feature:
   image_webp : images/about/about-business-man.webp
   title : 3 Decades of Experience - Same Day Court Translations and Certifications.
   content : "We are truly committed to producing optimal results within the deadlines."
+  head : About Us
   feature_item : 
     # feature item loop
     - title :  Optimal Quality 
