@@ -3,7 +3,8 @@ contact:
   enable : true
   title : Kontakt
   subtitle : Radno vreme
-  content : "Od ponedeljka do petka: `9:00 am  - 5:00 pm`"
+  content : "Od ponedeljka do petka: "
+  content1 : "**9:00 am  - 5:00 pm**"
 
   # Contact details
   contact_list:

@@ -6,7 +6,9 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "OMNIA Communications"
   content : "Prevodi sa i na engleski jezik, sa i bez overe sudskog prevodioca"
-  comment : "Prevedeno više od `15.000.000` reči"
+  content1 : "Prevedeno više od"
+  number: "**15.000.000**"
+  content2 : "reči"
   button:
     enable : true
     label : "Naše usluge"

@@ -3,7 +3,8 @@ contact:
   enable : true
   title : Contact
   subtitle : Working Hours
-  content : " Monday to Friday : `9:00 am  - 5:00 pm`"
+  content : " Monday to Friday:"
+  content1 : "**9:00 am  - 5:00 pm**"
 
   # Contact details
   contact_list:

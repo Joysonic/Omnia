@@ -22,15 +22,15 @@
 		<br/><br/><br/><br/>
 
 		<div>
-			<h2 >{{ .content | markdownify }}</h2>	
+			<h2 >{{ .content | markdownify }} </h2>	
 		</div>
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
-		<br/><br/><br/>
-		<h3>{{ .comment | markdownify }}</h3>
+		<br/><br/><br/><br/>
+		<h3>{{ .content1 | markdownify }} <spam style="color: white; font-size:26.0pt">{{.number | markdownify}} </spam> {{ .content2 | markdownify }}</h3>
 	</div>
 </section>
 {{"<!-- /Welcome Slider-->" | safeHTML}}
