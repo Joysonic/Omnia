@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Contact
-  subtitle : Contact Details
-  content : "Above all, we love our work and are constantly upgrading our knowledge applying new skills and standards in the sphere of technology, software and communications. This is why I recommend you to test our services and testify to the above!"
+  subtitle : Working Hours
+  content : " Monday to Friday : `9:00 am  - 5:00 pm`"
 
   # Contact details
   contact_list:

@@ -6,7 +6,7 @@ service:
     # service item loop
     - name :  URGENT Translations
       icon : ti-time # themify icon pack : https://themify.me/themify-icons
-      content :  If you need an urgent translation, your document can be scheduled for translation immediately according to priority and delivered in the shortest possible time (today for today, today for tomorrow).
+      content :  Your document can be scheduled for translation immediately according to priority and delivered in the shortest possible time (today for today/tomorrow).
 
     # service item loop
     - name : Price
@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : Delivery
       icon : ti-car # themify icon pack : https://themify.me/themify-icons
-      content : Translations are delivered in person, by electronic mail or express delivery to the client’s address.
+      content : Translations are delivered in person, by electronic mail or, if necessary, by express delivery to the client's address with the possibility of same-day/next-day delivery.

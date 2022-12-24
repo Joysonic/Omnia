@@ -1,12 +1,12 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Naše usluge
+  title : Usluge
   service_item :
     # service item loop
     - name : HITNI prevodi
       icon : ti-time # themify icon pack : https://themify.me/themify-icons
-      content :  U slučaju da Vam je prevod potreban po hitnom postupku, Vaš dokument može biti uzet odmah u rad po prioritetu i isporučen u najkraćem roku (danas za danas, danas za sutra).
+      content :  U slučaju da Vam je prevod potreban po hitnom postupku, Vaš dokument može biti uzet odmah u rad po prioritetu i isporučen u najkraćem roku  (danas za danas/sutra).
 
     # service item loop
     - name : Cena
@@ -31,5 +31,5 @@ service:
     # service item loop
     - name : Dostava
       icon : ti-time # themify icon pack : https://themify.me/themify-icons
-      content :  Prevodi se preuzimaju lično, elektronskom poštom ili ekspresnom dostavom na adresu klijenta.
+      content :  Prevodi se preuzimaju lično, elektronskom poštom ili ako je potrebno ekspresnom dostavom na adresu klijenta uz mogućnost dostave istog dana/sutradan.
       

@@ -13,13 +13,22 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
-		<h1>{{ .title | markdownify }}</h1>
-		<p>{{ .content | markdownify }}</p>
+		<a href="{{ site.Home.Permalink }}">
+			<!-- {{ if site.Params.logobig }} -->
+				<img class="lozad" data-src="{{ site.Params.logobig | absURL }}" alt="{{ .Site.Title }}" >
+			<!-- {{ end }} -->
+		</a>
+		<!-- <h1>{{ .title | markdownify }}</h1> -->
+		<br/><br/><br/><br/>
+
+		<h2>{{ .content | markdownify }}</h2>	
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
+		<br/><br/><br/>
+		<h3>{{ .comment | markdownify }}</h3>
 	</div>
 </section>
 {{"<!-- /Welcome Slider-->" | safeHTML}}

@@ -5,7 +5,8 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "OMNIA Communications"
-  content : "Certified and non-certified translations to and from English language."
+  content : "Certified and non-certified translations to and from English language"
+  comment : "Translated more than `15,000,000` words"
   button:
     enable : true
     label : "Our Services"

@@ -27,9 +27,6 @@ feature:
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : There is no higher or lower price. For us, everyone is the same and we treat everyone equally.
 
-      # feature item loop
-    - title :  Track Record 
-      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      content :  Translated more than 15,000,000 words.
+
 
 

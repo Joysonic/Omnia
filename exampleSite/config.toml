@@ -191,6 +191,7 @@ weight = 7
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
+logobig = "images/Omnia_Logo_B_white.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
