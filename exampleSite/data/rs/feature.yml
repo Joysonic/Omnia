@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title :  Preko 3 decenije profesionalnog iskustva i hilhjade zadovoljnih klijenata.
+  title :  Preko 3 decenije profesionalnog iskustva i hiljade zadovoljnih klijenata.
   content : " Brzina, kvalitet i posvećenost svakom klijentu daju rezultate zbog kojih nam se klijenti uvek vraćaju."
   head : O nama
   feature_item : 
