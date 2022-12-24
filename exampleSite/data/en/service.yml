@@ -4,37 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Translations
+    - name :  URGENT Translations
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content :  If you need an urgent translation, your document can be scheduled for translation immediately according to priority and delivered in the shortest possible time (today for today, today for tomorrow).
+
+    # service item loop
+    - name : Price
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content :  Send us the document so that we can make an initial price estimate. Our prices are guaranteed to offer the best price-quality translation ratio available on the market.
+      
+    # service item loop
+    - name : Client
+      icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      content : Our database includes over 1,000 satisfied clients who keep returning to us. We approach each client individually and respond to your specific requests.
+      
+    # service item loop
+    - name : Individual Approach
+      icon : ti-pin-alt # themify icon pack : https://themify.me/themify-icons
+      content : Every translation is different and everyone's needs are different. Many years of experience and professionalism allow us to adapt to the most diverse requirements.
+      
+    # service item loop
+    - name :  Translation Certified by a Court Translator
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
-      content : Court translators (court interpreters) of the OMNIA Communications agency offer all types of translations of contracts and legal documents, extracts from registers, certificates of citizenship, certificates of criminal record and other certificates, driver's licenses, declarations and consents, diplomas, school certificates, company registrations, decisions and judgments, authorizations and powers of attorney, with and without certification by a court translator, to and from English language.
-
-
-    # # service item loop
-    # - name : Court Interpreter
-    #   icon : ti-user # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : If you need a document for official purposes, we offer document translation services certified by a certified court translator.
       
     # service item loop
     - name : Delivery
-      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      icon : ti-car # themify icon pack : https://themify.me/themify-icons
       content : Translations are delivered in person, by electronic mail or express delivery to the client’s address.
-      
-    # service item loop
-    - name : Proofreading
-      icon : ti-microphone # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Books Translations
-      icon : ti-book # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # # service item loop
-    # - name : Urgent Requests
-    #   icon : ti-time # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # # service item loop
-    # - name : Hand Delivery
-    #   icon : ti-car # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

@@ -3,15 +3,14 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : 3 Decades of Experience - Same Day Court Translations and Certifications.
-  content : "We are truly committed to producing optimal results within the deadlines."
+  title : Over 3 decades of professional experience and thousands of satisfied clients.
+  content : "Speed, quality and commitment to each client give results because of which clients keep coming back to us."
   head : About Us
   feature_item : 
     # feature item loop
     - title :  Optimal Quality 
       icon : ti-timer # themify icon pack : https://themify.me/themify-icons
-      content :  Many years of experience in working with extremely important documents, working within the given deadlines while respecting all client requirements, quality of work and respecting the confidentiality of information
-      
+      content :  Many years of experience in working with extremely important documents, working within the given deadlines while respecting all client requirements, quality of work and respecting the confidentiality of information.     
 
       # feature item loop
     - title : Same Day Translations
@@ -27,5 +26,10 @@ feature:
     - title : Cost Effective
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : There is no higher or lower price. For us, everyone is the same and we treat everyone equally.
+
+      # feature item loop
+    - title :  Track Record 
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      content :  Translated more than 15,000,000 words.
 
 

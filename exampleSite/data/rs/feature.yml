@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title :  3 Decenije Iskustva - Sudski Prevodi I Overe Istog Dana.
-  content : "Posvećeni smo kreiranju optimalnih rezultata u zadatim rokovima."
+  title :  Preko 3 decenije profesionalnog iskustva i hilhjade zadovoljnih klijenata.
+  content : " Brzina, kvalitet i posvećenost svakom klijentu daju rezultate zbog kojih nam se klijenti uvek vraćaju."
   head : O nama
   feature_item : 
 
@@ -29,4 +29,9 @@ feature:
     - title :  Konkurentne Cene
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
       content : Ne postoji viša ili niža cena. Za nas su svi isti i prema svima se postavljamo jednako.
+
       
+      # feature item loop
+    - title :  Track Record 
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      content :  Prevedeno više od 15.000.000 reči.

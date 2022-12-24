@@ -4,36 +4,32 @@ service:
   title : Naše usluge
   service_item :
     # service item loop
-    - name : Prevodi
-      icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
-      content :  Sudski prevodioci (sudski tumači) agencije OMNIA Communications nude sve vrste prevoda ugovora i pravnih tekstova, izvoda iz matičnih knjiga, uverenja o državljanstvu, o nekažnjavanju, potvrda, vozačkih dozvola, izjava i saglasnosti, diploma, svedočanstava, registracije firmi, rešenja i presuda, ovlašćenja i punomoćja, sa i bez overe sudskog prevodioca, sa i na engleski jezik.
+    - name : HITNI prevodi
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content :  U slučaju da Vam je prevod potreban po hitnom postupku, Vaš dokument može biti uzet odmah u rad po prioritetu i isporučen u najkraćem roku (danas za danas, danas za sutra).
 
     # service item loop
+    - name : Cena
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Dostavite nam dokument kako bi smo izvršili početnu procenu cene. Naše cene garantovano nude najbolji odnos cene i kvaliteta prevoda dostupnog na tržištu.
+      
+    # service item loop
+    - name : Klijent
+      icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+      content :  Naša baza broji preko 1.000 zadovoljnih klijenata koji nam se vraćaju. Svakom klijentu pristupamo individualno i odgovaramo na Vaše specifične zahteve.
+     
+    # service item loop
+    - name : Individualni pristup
+      icon : ti-pin-alt # themify icon pack : https://themify.me/themify-icons
+      content :  Svaki prevod je drugačiji i svačije potrebe su drugačije. Dugogodišnje iskustvo i profesionalizam omogućavaju nam da se prilagodimo najrazličitijim zahtevima.
+      
+    # service item loop
+    - name : Prevod sa overom sudskog prevodioca
+      icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
+      content : Ukoliko Vam je dokument potreban za zvanične potrebe, nudimo usluge prevoda dokumenata sa overom sudskog prevodioca.
+      
+    # service item loop
     - name : Dostava
-      icon : ti-user # themify icon pack : https://themify.me/themify-icons
-      content : Preuzimanje dokumenata i prevoda lično, putem elektronske pošte ili kurirskom službom na adresu klijenta.
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content :  Prevodi se preuzimaju lično, elektronskom poštom ili ekspresnom dostavom na adresu klijenta.
       
-    # # service item loop
-    # - name : Nesertifikovani Prevodi
-    #   icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # # service item loop
-    # - name : Revizije
-    #   icon : ti-microphone # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # # service item loop
-    # - name : Books Translations
-    #   icon : ti-book # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # # service item loop
-    # - name : Hitni Zahtevi
-    #   icon : ti-time # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # # service item loop
-    # - name : Ručna Dostava
-    #   icon : ti-car # themify icon pack : https://themify.me/themify-icons
-    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
